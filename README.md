@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @aayush-2403
-- 👀 I’m interested in front end development  
-- 🌱 I’m currently learning Reactjs
+- 👀  
+- 🌱 
 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...handsome/attractive
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
